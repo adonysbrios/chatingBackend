@@ -1,10 +1,6 @@
-# ChatingApp backend with Flask and socketIo
+# ChatingApp backend with Flask, socketIo and Redis
 
 ## Installation
-
-<code>pip install > requirements.txt</code>
-
-<code>python app.py</code>
-
-## TO DO
-- Persistent data with Redis connection
+- Configure redis server in app.py
+- <code>pip install > requirements.txt</code>
+- <code>python app.py</code>
